@@ -30,4 +30,7 @@ def insertion_sort(arr):
 
 ```
 ## Pull Request
-https://github.com/SalimHass/blogs/pull/1
+[pull request](https://github.com/SalimHass/blogs/pull/1)
+
+## blog
+[blog](https://github.com/SalimHass/blogs/blob/main/blogs/insertion_Sort/BLOG.md)
