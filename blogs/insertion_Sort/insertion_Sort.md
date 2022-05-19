@@ -29,3 +29,8 @@ def insertion_sort(arr):
     return arr
 
 ```
+## Pull Request
+[pull request](https://github.com/SalimHass/blogs/pull/1)
+
+## blog
+[blog](https://github.com/SalimHass/blogs/blob/main/blogs/insertion_Sort/BLOG.md)
