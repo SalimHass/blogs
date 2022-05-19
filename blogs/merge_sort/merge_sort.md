@@ -58,6 +58,7 @@ def merge(left,right,arr):
 
 ```
 ## Pull request
+https://github.com/SalimHass/blogs/pull/2/
 
 ## Blog
 [blog](././BLOG.md)
